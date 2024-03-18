@@ -111,4 +111,35 @@
       "content": "In the realm of computer science, data structures serve as the backbone of efficient data organization and management. These structures offer specialized formats for storing and accessing data within a computer's memory, facilitating smooth operations like retrieval, insertion, and deletion. Consider a scenario where you have a pile of books to organize. Without shelves or categories, finding a specific book would be chaotic and time-consuming. Similarly, in the absence of appropriate data structures, handling large datasets becomes cumbersome and error-prone. Among the common types of data structures are arrays, which store elements in contiguous memory locations and allow for efficient access via index. Linked lists, on the other hand, consist of nodes connected by pointers, offering dynamic memory allocation but with potential overhead. Stacks and queues follow different principles—stacks adhere to the Last In, First Out (LIFO) principle, while queues operate on the First In, First Out (FIFO) principle. These structures find applications in various algorithms and programming tasks, contributing to streamlined processes. Trees and graphs, more complex structures, represent hierarchical relationships and connections between data elements, respectively. Trees have a root node with branches, while graphs depict nodes linked by edges. They play crucial roles in scenarios like file systems, network routing, and social networks. Choosing the right data structure is essential and depends on the specific problem at hand. Factors like time complexity, space efficiency, and ease of implementation influence this decision-making process. In conclusion, data structures are fundamental components of software engineering, facilitating efficient data management and algorithmic problem-solving. By grasping their principles and characteristics, programmers can enhance their ability to tackle challenges and optimize code for performance. Stay tuned for more insights on mastering the art of data structuring!"
     }
   ]
+  "tags": [
+    {
+      "id": 1,
+      "title": "DataBase",
+      "images": "https://source.unsplash.com/random/1200x700?DataBase",
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "images": "https://source.unsplash.com/random/1200x700?DSA",
+    },
+    {
+      "id": 3,
+      "title": "Ethical Hacking",
+      "images": "https://source.unsplash.com/random/1200x700?Hacking",
+    },
+    {
+      "id": 4,
+      "title": "Rest Api",
+      "images": "https://source.unsplash.com/random/1200x700?computer",
+    },
+    {
+      "id": 5,
+      "title": "CLOUD ",
+      "images": "https://source.unsplash.com/random/1200x700?aws",
+    },
+    {
+      "id": 6,
+      "title": "Artificial intelligence",
+      "images": "https://source.unsplash.com/random/1200x700?Ai",
+    },
 }
