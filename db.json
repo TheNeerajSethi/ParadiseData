@@ -112,37 +112,4 @@
     }
   ]
 }
-{
-  "tags": [
-    {
-      "id": 1,
-      "title": "DataBase",
-      "images": "https://source.unsplash.com/random/1200x700?DataBase",
-    },
-    {
-      "id": 2,
-      "title": "Web Development",
-      "images": "https://source.unsplash.com/random/1200x700?DSA",
-    },
-    {
-      "id": 3,
-      "title": "Ethical Hacking",
-      "images": "https://source.unsplash.com/random/1200x700?Hacking",
-    },
-    {
-      "id": 4,
-      "title": "Rest Api",
-      "images": "https://source.unsplash.com/random/1200x700?computer",
-    },
-    {
-      "id": 5,
-      "title": "CLOUD ",
-      "images": "https://source.unsplash.com/random/1200x700?aws",
-    },
-    {
-      "id": 6,
-      "title": "Artificial intelligence",
-      "images": "https://source.unsplash.com/random/1200x700?Ai",
-    },
-  ]
-}
+
